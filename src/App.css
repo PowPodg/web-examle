@@ -1,0 +1,13 @@
+.App {
+  position: relative;
+  width: 1920px;
+  height: 4174px;
+}
+
+.App .header {
+  position: absolute;
+  width: 100%;
+  height: 13%;
+  top: 0px;
+}
+/*# sourceMappingURL=App.css.map */
